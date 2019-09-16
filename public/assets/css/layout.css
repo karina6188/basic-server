@@ -1631,7 +1631,7 @@ section, article {
   }
 
     #header .icons a {
-      color: #41484c;
+      color: #4f558f;
       -moz-transition: color 0.35s ease-in-out;
       -webkit-transition: color 0.35s ease-in-out;
       -ms-transition: color 0.35s ease-in-out;
@@ -1704,7 +1704,7 @@ section, article {
         #nav ul li a span:before {
           position: absolute;
           left: 0;
-          color: #41484c;
+          color: #5e5d57;
           text-align: center;
           width: 1.25em;
           line-height: 1.75em;
@@ -1717,7 +1717,7 @@ section, article {
       }
 
         #nav ul li a.active span:before {
-          color: #e27689;
+          color: #b5b671;
         }
 
 /* Footer */
@@ -1766,7 +1766,7 @@ section, article {
   }
 
     #main > section.dark {
-      color: #ddd;
+      color: rgb(230, 230, 230);
       color: rgba(255, 255, 255, 0.75);
     }
 
@@ -1775,7 +1775,7 @@ section, article {
       }
 
       #main > section.dark strong {
-        color: #fff;
+        color: rgb(255, 233, 109);
         border-color: inherit;
       }
 
@@ -1795,8 +1795,8 @@ section, article {
     }
 
     #main > section.one {
-      background-color: #81918E;
-      background-image: url("../../images/banner.jpg");
+      background-color: rgb(84, 109, 138);
+      background-image: url("../../images/main-banner.jpg");
     }
 
     #main > section.two {
